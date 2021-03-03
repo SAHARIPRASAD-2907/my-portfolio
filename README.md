@@ -1,6 +1,12 @@
+# This is my portfolio app created with react and sanity.io
+url for pottfolio [hariprasadportfolio](https://hariprasadportfolio.netlify.app/).
+inspired from [youtube](https://www.youtube.com/watch?v=NO7_jgzVgbc)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
